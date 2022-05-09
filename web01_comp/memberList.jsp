@@ -20,7 +20,7 @@ h2 { text-align: center; }
 </head>
 <body>
 <div class="wrap">
-<header id="hd" class="panel-heading">
+<header id="hd">
 	<div class="hd_wrap">
 		<%@ include file="nav.jsp" %>
 	</div>

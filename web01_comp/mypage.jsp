@@ -9,17 +9,18 @@
 <link rel="stylesheet" href="./css/common.css">
 <link rel="stylesheet" href="./css/sub_common.css">
 <script src="https://code.jquery.com/jquery-latest.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 <style>
 h2{ text-align:center; margin-top:150px; }
-table { margin: 100px auto; }
-table tr { line-height:2em; clear:both;}
+table { margin: 70px auto; }
+table tbody tr { line-height:2em; clear:both;}
 table tr:after td { margin:0 auto; }
 
 </style>
 </head>
 <body>
 <div class="wrap">
-<header id="hd" class="panel-heading">
+<header id="hd">
 	<div class="hd_wrap">
 		<%@ include file="nav.jsp" %>
 	</div>
